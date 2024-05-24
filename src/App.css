@@ -81,7 +81,7 @@ background:rgba(99, 177, 147 ,0.4)
 @media (max-width:470px) {
   .container{
     width: 300px;
-    height: 350px;
+    height: 400px;
   }
   .title{
     font-size: 28px;
